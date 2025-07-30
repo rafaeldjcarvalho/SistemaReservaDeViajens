@@ -13,7 +13,7 @@ Um sistema que valida reservas, fazendo comunicação com sistemas extenos.
     <b>Um sistema que valida reservas de viajens, simulando comunicação com outros sistemas. A ideia é criar uma Plataforma de Reservas de Viagens, onde o sistema principal depende de serviços externos antes de confirmar uma reserva.</b>
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="technologies">💻 Tecnologias</h2>
 
 - Lista de todas as Tecnologias usadas:
 - Java
