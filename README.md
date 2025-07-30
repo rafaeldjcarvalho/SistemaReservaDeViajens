@@ -119,6 +119,8 @@ Aqui está a lista das principais rotas da API e o que elas fazem.
 }
 ```
 Ou em caso de falha:
+
+
 **RESPONSE**
 ```json
 {
