@@ -75,11 +75,13 @@ server.port=8082
     - Execute as classes Application de cada serviço.
 - Via terminal:
     - Dentro da pasta de cada serviço, execute:
+
     ```bash
     cd <Nome do serviço>
     mvn spring-boot:run
     ``` 
     - Exemplo:
+    
     ```bash
     cd Booking
     mvn spring-boot:run
