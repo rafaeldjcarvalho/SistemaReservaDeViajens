@@ -93,7 +93,8 @@ server.port=8082
 Aqui está a lista das principais rotas da API e o que elas fazem.
 
 - Fluxo Principal
-​
+
+
 | route               | description                                          
 |----------------------|-----------------------------------------------------
 | <kbd>GET /Bookings</kbd>      | Recupera as reservas criadas.
