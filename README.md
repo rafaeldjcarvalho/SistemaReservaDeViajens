@@ -1,5 +1,3 @@
-# SistemaReservaDeViajens
-Um sistema que valida reservas, fazendo comunicação com sistemas extenos.
 <h1 align="center" style="font-weight: bold;">Sistema para Reserva de Viajens 💻</h1>
 
 <p align="center">
